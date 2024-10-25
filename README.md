@@ -1,8 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there! 👋</h1>
 
 ###
 
 <p align="left">My name is Rafael Luna and I'm a Computer Engineer, from Brazil!</p>
+<p align="left">I'm passionate about technologys, always eager to learn and tackle new challenges. I believe in continuous improvement and often engage in self-directed learning to enhance my skills.</p>
 
 ###
 
@@ -21,7 +22,7 @@
 
 ###
 
-<p align="left">✍ Currently working as an Embedded systems intern at Senai CIMATEC<br><br>📚 Learning Linux</p>
+<p align="left">✍ Working as an Embedded systems intern at Senai CIMATEC.<br><br>📚 Enhancing my skills in Linux and Docker for better software deployment.<br><br>🎓 Finishing my degree in Computer Engineering.</p>
 
 ###
 
