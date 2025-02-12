@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✍ Working as an Embedded systems intern at Senai CIMATEC.<br><br>📚 Enhancing my skills in Linux and Docker for better software deployment.<br><br>🎓 Finishing my degree in Computer Engineering.</p>
+<p align="left">✍ Working @ Embedded systems - Senai CIMATEC.<br><br>📚 Enhancing my skills in Linux and Docker for better software deployment.<br><br>🎓 Recently finished my degree in Computer Engineering.</p>
 
 ###
 
