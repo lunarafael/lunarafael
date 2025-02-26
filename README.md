@@ -50,6 +50,6 @@
 
 ###
 
-<p align="left">You might notice that my GitHub repositories show less activity. This is because I primarily work with Bitbucket at my company, where I manage and collaborate on various projects.</p>
+<p align="left">My GitHub activity may seem limited because I primarily work with Bitbucket at the company I work for, where I manage and collaborate on multiple projects!</p>
 
 ###
