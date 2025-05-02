@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Rafael Luna and I'm a Computer Engineer, from Brazil!</p>
-<p align="left">I'm passionate about technologys, always eager to learn and tackle new challenges. I believe in continuous improvement and often engage in self-directed learning to enhance my skills.</p>
+<p align="left">I'm passionate about technology, always eager to learn and tackle new challenges. I believe in continuous improvement and often engage in self-directed learning to enhance my skills.</p>
 
 ###
 
