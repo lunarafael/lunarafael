@@ -36,9 +36,7 @@
 
 <p align="left">
   👨‍💻 Working @ Agibank as a <strong>Cyber Security Analyst</strong>.<br /><br />
-  📚 Currently enhancing my skills in <strong>Cybersecurity</strong>, with a
-  focus on <strong>Linux</strong> and <strong>Docker</strong> for secure and
-  efficient software deployment.<br /><br />
+  📚 Currently enhancing my skills in <strong>Cybersecurity</strong>.<br /><br />
   🎓 Bachelor's degree in Computer Engineering @
   <a href="https://share.google/2H5tTknxq7FxEkXG9" target="_blank">
     <span style="color: #ffa500"
