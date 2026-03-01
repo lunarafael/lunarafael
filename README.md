@@ -35,8 +35,8 @@
 <br />
 
 <p align="left">
-  👨‍💻 Working @ Agibank as a <strong>Cyber Security Analyst</strong>.<br /><br />
-  📚 Currently enhancing my skills in <strong>Cybersecurity</strong>.<br /><br />
+  👨‍💻 Working @ CSG as a <strong>Software Developer Engineer</strong>.<br /><br />
+  📚 Currently enhancing my skills in <strong>Architecture & Cloud</strong>.<br /><br />
   🎓 Bachelor's degree in Computer Engineering @
   <a href="https://share.google/2H5tTknxq7FxEkXG9" target="_blank">
     <span style="color: #ffa500"
@@ -88,12 +88,3 @@
     background: linear-gradient(to right, #8e2de2, #4a00e0);
   "
 />
-
-<h2 align="left" style="color: #a259ff">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lunarafael&show_icons=true&theme=radical&title_color=8e2de2&icon_color=8e2de2"
-  />
-  <br /><br />
-</div>
